@@ -1,4 +1,4 @@
-A empresa utiliza uma plataforma web integrada diretamente ao banco de dados do ERP corporativo para fornecer relatórios de Business Partner 
+Problema: A empresa utiliza uma plataforma web integrada diretamente ao banco de dados do ERP corporativo para fornecer relatórios de Business Partner 
    em tempo real para os clientes.
     Sempre que uma nova empresa é integrada/cadastrada no banco de dados, o histórico de alterações salariais dos colaboradores é importado em formato bruto. 
     O sistema nativo não calcula retroativamente o percentual de aumento de cada dissídio ou promoção ao longo dos anos, defasando a ficha financeira dos colaboradores.
