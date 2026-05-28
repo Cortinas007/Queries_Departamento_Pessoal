@@ -1,2 +1,2 @@
-# Andrey-Rodrigues-Leite
+# Queries para departamento pessoal
 Queries feitas para resolver problemas no cotidiano da equipe operacional na rotina de departamento pessoal no sistema ERP do meu trabalho.
