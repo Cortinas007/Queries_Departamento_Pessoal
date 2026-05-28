@@ -71,7 +71,7 @@ GROUP BY
     emprestimo.id_empresa,
     emprestimo.id_colaborador,
     colab.nome_colaborador,
-    categ_emprestimo.descricao_categoria,  --- AGRUPANDO PARA CONSOLIDAR OS VALORES
+    categ_emprestimo.descricao_categoria,  --- AGRUPANDO PARA CONSOLIDAR OS VALORES DE MULTIPLOS EMPRESTIMOS
     parcela.mes_referencia,
     colab.data_desligamento,
     lic_virt.data_inicio_licenca,
