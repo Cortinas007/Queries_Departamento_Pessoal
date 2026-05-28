@@ -2,9 +2,6 @@ Problema: Equipe tinha muita dificuldade de validar cada contrato do novo empres
 Sendo assim criei uma consulta que consolida os valores de todos os contratos, tendo em vista que o sistema ERP Questor desconta o credito do trabalhador
 em somente um evento, consolidando-os. 
 
-
-  --- TODOS OS NOMES DE TABELAS E COLUNAS SÃO FICTICIOS ---
-
 --- TABELA VIRTUAL QUE CONSULTA SE O FUNCIONARIO POSSUI ALGUM TIPO DE AFASTAMENTO DENTRO DO MÊS, ASSIM A EQUIPE PODE ENTENDER SE O VALOR NÃO DESCONTADO É DEVIDO ---
 WITH LICENCAS_VIRTUAIS AS (
     SELECT
