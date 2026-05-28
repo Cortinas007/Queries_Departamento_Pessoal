@@ -10,7 +10,7 @@ O objetivo destas consultas é **automatizar a conciliação financeira e o leva
 
 ## Tecnologias e Técnicas Utilizadas
 
-* **Linguagem/Banco:** SQL (PostgreSQL)
+* **Linguagem/Banco:** SQL (PostgreSQL) / SQL (Anywhere)
 * **Técnicas Avançadas Aplicadas:**
   * **CTEs (Common Table Expressions):** Modularização de regras de negócio complexas antes da execução do relatório principal.
   * **Window Functions:** Uso de `ROW_NUMBER`, `LAG` e `LEAD` para análise de histórico cronológico (ex: evolução salarial, quebra de recibos de férias).
